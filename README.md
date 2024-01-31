@@ -16,5 +16,5 @@
     <img alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Estudante de ADS no 4º semestre da faculdade FIAP.
+Formado em ADS pela faculdade FIAP.
 Atuei na função de Desenvolvedor na empresa NTT DATA.
