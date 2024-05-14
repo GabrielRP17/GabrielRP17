@@ -17,4 +17,4 @@
 </div><br/>
 
 Formado em ADS pela faculdade FIAP.
-Atuei na função de Desenvolvedor na empresa NTT DATA.
+Atuei na função de Desenvolvedor na empresa NTT DATA juntamente com o Itaú
