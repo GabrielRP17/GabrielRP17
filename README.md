@@ -1,6 +1,6 @@
 ### Olá! meu nome é Gabriel Rodrigues e sou Desenvolvedor Backend
 
-Formado em ADS pela faculdade FIAP.
+Formado em Análise e Desenvolvimento de Sistemas pela faculdade FIAP.
 Atuei na função de Desenvolvedor na empresa NTT DATA juntamente com o Itaú.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-passos/)
